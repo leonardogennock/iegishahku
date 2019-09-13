@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iquaheezu.tanzblick.com/sitemap.xml
